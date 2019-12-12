@@ -1,0 +1,2 @@
+./datafile/nofight/no30_xvid.avi	INF	INF
+./datafile/fight/fi30_xvid.avi	0	INF
